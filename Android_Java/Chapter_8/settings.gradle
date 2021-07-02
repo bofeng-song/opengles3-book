@@ -1,0 +1,2 @@
+include ':Simple_VertexShader', ':Common'
+rootProject.name = "Chapter_8"

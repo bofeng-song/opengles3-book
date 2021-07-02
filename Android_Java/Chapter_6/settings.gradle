@@ -1,0 +1,2 @@
+include ':Example_6_3', ':Example_6_6', ':MapBuffers', ':VertexArrayObjects', ':VertexBufferObjects', ':Common'
+rootProject.name = "Chapter_6"

@@ -3,6 +3,9 @@
 *.lock
 profile
 *~.nib
+*.idea
+*.gradle
+*.cxx
 
 
 
@@ -24,5 +27,11 @@ v
 
 xcuserdata
 *.moved-aside
+
+Android_Java/Chapter_6/Common
+Android_Java/Chapter_8/Common
+Android_Java/Chapter_9/Common
+Android_Java/Chapter_10/Common
+Android_Java/Chapter_14/Common
 
 

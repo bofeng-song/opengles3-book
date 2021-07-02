@@ -1,0 +1,2 @@
+include ':MipMap2D', ':Simple_Texture2D', ':Simple_TextureCubemap', ':TextureWrap',':Common'
+rootProject.name = "Chapter_9"
